@@ -25,7 +25,7 @@ HackFiesta Certificates is a decentralized application that allows users to clai
 - **Frontend**: Next.js, TailwindCSS  
 - **Wallet**: RainbowKit, Wagmi  
 - **Blockchain**: Solidity, Hardhat, Sepolia testnet  
-- **Storage**: IPFS via NFT.Storage  
+- **Storage**: IPFS via Filebase
 - **Design**: Custom UI with glassmorphism, gradients, and consistent styling
 
 ---
