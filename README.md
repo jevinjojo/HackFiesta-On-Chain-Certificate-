@@ -4,7 +4,7 @@
 A sleek, judge-ready demo for minting event certificates as NFTs using smart contracts and IPFS.
 
 ---
-
+   
 ## 🚀 Overview
 
 HackFiesta Certificates is a decentralized application that allows users to claim verifiable certificates for event participation. Each certificate is minted as an NFT on the Sepolia testnet and stored permanently on IPFS.
