@@ -44,9 +44,3 @@ npm run dev
 https://github.com/user-attachments/assets/a23f2cbc-14e9-4302-982a-fb89821bc91d
 
 
-<img width="429" height="321" alt="Screenshot 2026-01-05 224732" src="https://github.com/user-attachments/assets/8fe09bda-a8a5-4a78-b6ba-02c034a5c4af" />
-
-<img width="472" height="549" alt="Screenshot 2026-01-05 224747" src="https://github.com/user-attachments/assets/2e3961ff-46ac-466d-853f-dd4bd0dcc482" />
-
-<img width="451" height="559" alt="Screenshot 2026-01-05 224759" src="https://github.com/user-attachments/assets/28143ad2-96ef-42ff-a1e8-cc928a392ae9" />
-
